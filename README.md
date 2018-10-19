@@ -1,13 +1,13 @@
 Project Title
-  simpleReact App
+simpleReact App
 
 Getting Started
-  run `npm install` to install dependencies
+run `npm install` to install dependencies
 
 Prerequisites
-  Latest Node.js and NPM
+Latest Node.js and NPM
 
 Built With
-  create-react-app
-  React/Redux
-  Fetch API
+create-react-app
+React/Redux
+Fetch API
